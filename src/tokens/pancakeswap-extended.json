@@ -3422,5 +3422,13 @@
     "chainId": 56,
     "decimals": 8,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png"
+  },
+  {
+    "name": "Turbo USD Finance",
+    "symbol": "USDT",
+    "address": "0x0DD126CA9EAbA5A9c55B14dd71787F88594A64d5",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://turbousd.io/logo.png"
   }
 ]
